@@ -34,3 +34,5 @@ Used Root Mean Squared Error (RMSE) as the evaluation metric
 ### Deployed Web App
 If you want to view the deployed model, then follow the link mentioned below:
 1. *GitHub: https://github.com/shrikantrepository/Predict-Car-Price-on-Car-Dekho*
+
+![alt text](https://github.com/shrikantrepository/Predict-Car-Price-on-Car-Dekho/blob/master/templates/Capture.PNG)
