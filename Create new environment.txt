@@ -1,0 +1,31 @@
+Always create new environment whenever you will work on any project.
+Reason - In new environment it won't use all libraries We can use only those which are required.
+
+Open Anconda Prompt
+Do google search - create anaconda environment 
+
+copy and paste commnad on A. prompt
+
+1. conda create -n writeownenvirnment_name python=3.7   -- enter
+
+2. press y - installation of pkgs will automatically happen	
+3. activate writeownenvirnment_name 
+4. cls
+5. cd <paste particular path location>
+6. dir -- it will show all directories and file names
+7. jupyter notebook  -- it will create new jupyter notebook
+
+
+To view all environments in promt
+conda info --envs
+
+Now to create requirement.txt file
+open anconda prompt
+activate writeownenvirnment_name 
+cd <paste path name where jupyter file is saved>
+pip freeze > requirements.txt
+
+
+
+Heroku link to access this project-
+https://carprediction-1.herokuapp.com/
