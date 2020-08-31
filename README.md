@@ -3,7 +3,7 @@
 ### Project Overview
 1. *Created a model that predicts old vehicle price basis Kms driven, number of years used, number of owners, etc.*
 1. *Engineered features ....*
-3. *Optimized Linear, Decision Tree, Random Forest, and AdaBoost regressors using GridsearchCV to reach the best model*
+3. *Optimized Linear, Decision Tree, Random Forest, and AdaBoost regressors using GridsearchCV to reach the best model.*
 
 
 ### Resources Used
