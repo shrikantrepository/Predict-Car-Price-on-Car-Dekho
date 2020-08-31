@@ -32,7 +32,7 @@ Used Root Mean Squared Error (RMSE) as the evaluation metric
 2. *Implement this problem statement using Artificial Neural Network (ANN).*
 
 ### Deployed Web App
-If you want to view the deployed model, then follow the link mentioned below:
+If you want to view the deployed model, then follow the link mentioned below:-
 1. *GitHub: https://github.com/shrikantrepository/Predict-Car-Price-on-Car-Dekho*
 
 ![alt text](https://github.com/shrikantrepository/Predict-Car-Price-on-Car-Dekho/blob/master/templates/Capture.PNG)
