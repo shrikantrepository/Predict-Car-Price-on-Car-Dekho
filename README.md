@@ -7,7 +7,7 @@
 
 
 ### Resources Used
-1. *Packages: pandas, numpy, sklearn, matplotlib, seaborn*
+1. *Packages: pandas, numpy, sklearn, matplotlib, seaborn*....
 1. *Dataset by Nehal Birla: https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho*
 
 ### Data Cleaning
