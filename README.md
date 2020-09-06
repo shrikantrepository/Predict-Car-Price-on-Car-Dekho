@@ -29,7 +29,7 @@ Used Root Mean Squared Error (RMSE) as the evaluation metric
 
 ### Future Scope
 1. * Vehicle price predication model should also done bassis Model Name. Due to data limitations it was not in scope in this application*
-2. *Implement this problem statement using Artificial Neural Network (ANN)..*
+2. *Implement this problem statement using Artificial Neural Network (ANN)...*
 
 ### Deployed Web App
 If you want to view the deployed model, then follow the link mentioned below:-
